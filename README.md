@@ -1,1 +1,1 @@
-#Rroject of Compiler course at university of Oklahoma
+Project of Compiler course at university of Oklahoma
